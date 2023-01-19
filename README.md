@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neimael&show_icons=true&locale=en" alt="neimael" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neimael&" alt="neimael" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neimael&theme=radical" alt="neimael" /></p>
 
