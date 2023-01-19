@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ELJID Naima</h1>
 <h3 align="center">Web/Mobile developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neimael&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="neimael" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neimael&theme=radical" alt="neimael" /></a> </p>
