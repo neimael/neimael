@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ELJID Naima</h1>
 <h3 align="center">Web/Mobile developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neimael" alt="neimael" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neimael&theme=radical" alt="neimael" /></a> </p>
 
 - 📫 How to reach me **naima.eljid03@gmail.com**
 
