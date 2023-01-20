@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ELJID Naima</h1>
 <h3 align="center">Web/Mobile developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neimael&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="neimael" /> </p>
 
