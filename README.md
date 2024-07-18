@@ -24,5 +24,5 @@
 
 ## Watch snake eating my github contributions 
  
-![snake gif](https://github.com/neimael/neimael/github-contribution-grid-snake.svg)
+![snake gif]([https://github.com/neimael/neimael/github-contribution-grid-snake.svg](https://github.com/neimael/neimael/blob/main/github-contribution-grid-snake.svg))
 
