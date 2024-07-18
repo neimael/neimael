@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ELJID Naima</h1>
-<h3 align="center">2nd Year Master's Student in Big Data & AI</h3>
+<h3 align="center">I am currently a 2nd-year student pursuing a Master's in Big Data and Artificial Intelligence.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
