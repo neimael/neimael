@@ -21,8 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neimael&show_icons=true&theme=radical&locale=en" alt="neimael" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neimael&theme=radical" alt="neimael" /></p>
-
-## Watch snake eating my github contributions 
- 
-![snake gif]([https://github.com/neimael/neimael/github-contribution-grid-snake.gif](https://github.com/neimael/neimael/blob/main/github-contribution-grid-snake.gif))
-
