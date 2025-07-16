@@ -29,12 +29,12 @@ I enjoy building intelligent, user-centric, and data-driven applications.
 
 <h3>💡 What I do</h3>
 
-<ul align="center">
-  <li>👩‍💻 Build <b>full-stack applications</b> (mobile & web) with clean code and smart UX</li>
-  <li>📊 Develop <b>machine learning systems</b> for automation and decision support</li>
-  <li>🔁 Design <b>data pipelines</b> and work on real-world <b>AI challenges</b></li>
-  <li>🔍 Constantly learning, exploring, and pushing boundaries across both fields</li>
-</ul>
+<p align="center">
+- 👩‍💻 Build **full-stack applications** (mobile & web) with clean code and smart UX  
+- 📊 Develop **machine learning systems** for automation and decision support  
+- 🔁 Design **data pipelines** and work on real-world **AI challenges**  
+- 🔍 Constantly learning, exploring, and pushing boundaries across both fields  
+</p>
 
 </div>
 
