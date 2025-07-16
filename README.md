@@ -11,6 +11,24 @@
 </p>
 <br>
 
+<p align="center">
+
+### 👩‍💻 About Me
+
+A passionate developer with a **dual skillset** in **software engineering** and **artificial intelligence**. With a strong academic foundation in **Big Data & AI**, and hands-on experience in both **web** and **mobile development**, I enjoy building intelligent, user-centric, and data-driven applications.
+
+### 💡 What I do:
+- 👩‍💻 Build **full-stack applications** (mobile & web) with clean code and smart UX  
+- 📊 Develop **machine learning systems** for automation and decision support  
+- 🔁 Design **data pipelines** and work on real-world **AI challenges**  
+- 🔍 Constantly learning, exploring, and pushing boundaries across both fields  
+
+🎯 Whether it’s building a smooth mobile experience or deploying a machine learning model, I bring a **problem-solving mindset** and **full-stack versatility** to every project.
+
+**Let’s connect and create something impactful together!**
+
+</p>
+
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <b><a href="mailto:naima.eljid03@gmail.com">naima.eljid03@gmail.com</a></b>
