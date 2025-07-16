@@ -23,7 +23,6 @@ I enjoy building intelligent, user-centric, and data-driven applications.
 
 </div>
 
-<br>
 
 <div align="left">
 
