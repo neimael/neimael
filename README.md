@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<div align="center">
+<div align="left">
 
 <h3>👩‍💻 About Me</h3>
 
@@ -25,7 +25,7 @@ I enjoy building intelligent, user-centric, and data-driven applications.
 
 <br>
 
-<div align="center">
+<div align="left">
 
 <h3>💡 What I do</h3>
 
@@ -39,7 +39,7 @@ I enjoy building intelligent, user-centric, and data-driven applications.
 
 <br>
 
-<div align="center">
+<div align="left">
 
 <p>
 🎯 Whether it’s building a smooth mobile experience or deploying a machine learning model,  
@@ -50,13 +50,13 @@ I bring a <b>problem-solving mindset</b> and <b>full-stack versatility</b> to ev
 
 </div>
 
-<h3 align="center">📫 How to reach me:</h3>
-<p align="center">
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
   <b><a href="mailto:naima.eljid03@gmail.com">naima.eljid03@gmail.com</a></b>
 </p>
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/naima-eljid-1536a922a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
